@@ -1,6 +1,6 @@
-title: Minimal theme
+title: LibreQuake
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: [not ready for commercial use] A freesoftware quake one remake with art under the BSD license
 show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-minimal
